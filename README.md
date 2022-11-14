@@ -18,7 +18,7 @@ To get a local copy up and running it, follow these simple steps.
 
 2. Copy the following link and paste it into your VSCode or your terminal:
 
-> https://github.com/diegoh40/School-librery.git 
+> https://github.com/diegoh40/OOP-School-Library.git
 
 3. Store it in the file you created before.
 
